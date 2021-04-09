@@ -1,0 +1,6 @@
+# ignore the .env file and the vendor folder
+
+.env
+
+vendor/*
+
