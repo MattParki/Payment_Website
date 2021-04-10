@@ -16,14 +16,13 @@
   <div class="jumbotron">
     <div class="card-deck">
       <div class="card">
-        <img class="card-img-top" src="../images/MAFX010-AWW-cover-1024x1024.jpg" alt="Card image cap">
+        <img class="card-img-top" src="../images/image_9.jpeg" alt="Card image cap">
         <div class="card-body">
-        <h5 class="card-title">AFRICAN </br>WILD WEST</h5>
-        <p class="card-text">African Wild West is a collection of lush and immersive ambiences recorded in Senegal over the course of a 3-week trip in 2017.</p>
+        <h5 class="card-title">Example</br>1</h5>
+        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</p>
         </div>
         <!-- Trigger the modal with a button -->
         <button type="button" class="btn btn-info" data-toggle="modal" data-target="#myModal1">Read More</button>
-        <button type="button" class="btn btn-success" data-toggle="" data-target="#basket">Add To Basket</button>
 <!-- Modal -->
 <div id="myModal1" class="modal" role="dialog">
   <div class="modal-dialog">
@@ -38,22 +37,18 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-4">
-            <h2>AFRICAN WILD WEST</h5>
+            <h2>Example 1</h5>
             </h2>
-            <img class="card-img-top" src="../images/MAFX010-AWW-cover-1024x1024.jpg" alt="Card image cap">
+            <img class="card-img-top" src="../images/image_9.jpeg" alt="Card image cap">
 
           </div>
             <div class="col-8">
             </br>
-            <p class="card-text">African Wild West is a collection of lush and immersive ambiences recorded in Senegal over the course of a 3-week trip in 2017. The library consists of 70 recordings totaling more than 6 hours, available both as stereo and surround. The recordings have been captured with a Sennheiser Double Mid-Side rig both at all times of day and night in the following locations:
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. 
 
-            Djoudj National Bird Sanctuary, an immense wetland teeming with wildlife
-            savanna areas in Northern, Eastern and Central Senegal
-            desert oases at Desert de Lompoul, Western Senegal
-            arid forests in Central Senegal
-            tropical forests in Niokolo-Koba National Park, South Eastern Senegal
-            the banks of the river Gambia
-            mangrove forests in the Saloum Delta, on the Atlantic coast
+            Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. 
+
+            Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. 
           </div>
         </div>
       </div>
@@ -72,14 +67,13 @@
 
 <!--NEW CARD -->
 <div class="card">
-        <img class="card-img-top" src="../images/asfx_MAFX022-cover-a-1.jpg" alt="Card image cap">
+        <img class="card-img-top" src="../images/image_10.jpeg" alt="Card image cap">
         <div class="card-body">
-        <h5 class="card-title">AFRICAN </br>DESERT</h5>
-        <p class="card-text">African Desert is a collection of immersive stereo soundscapes recorded in the remotest parts of the Namib desert.</p>
+        <h5 class="card-title">Example </br>2</h5>
+        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</p>
         </div>
         <!-- Trigger the modal with a button -->
         <button type="button" class="btn btn-info" data-toggle="modal" data-target="#myModal2">Read More</button>
-        <button type="button" class="btn btn-success" data-toggle="" data-target="#basket">Add To Basket</button>
 
 <!-- Modal -->
 <div id="myModal2" class="modal" role="dialog">
@@ -95,16 +89,18 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-4">
-            <h2>AFRICAN DESERT</h5>
+            <h2>Example 2</h5>
             </h2>
-            <img class="card-img-top" src="../images/asfx_MAFX022-cover-a-1.jpg" alt="Card image cap">
+            <img class="card-img-top" src="../images/image_10.jpeg" alt="Card image cap">
 
           </div>
             <div class="col-8">
             </br>
-            <p class="card-text">African Desert is a collection of immersive stereo soundscapes recorded in the remotest parts of the Namib desert. It covers a variety of locations, from sand dunes and canyons to desert pavement and rocky outcrops. Subjects include sand movement recorded with hydrophones, soft to medium wind blowing over the surface of the dunes, and insects, birds and reptiles creating a sparse ambience full of minute detail.
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. 
 
-            The purpose of this collection is to portray the soundscape of the Namib desert in all its sparseness and beauty. Some of these recordings are not much more than very soft wind. A few of the included soundscapes feature sand being blown over the surface of dunes. There’s a variety of wildlife calls too, from insects like cicadas, crickets or flies to barking geckos and occasional birds. This is not a wildlife library though, as the focus is more on the lifeless beauty of this mostly barren landscape.
+            Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. 
+
+            Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. 
           </div>
         </div>
       </div>
@@ -124,14 +120,13 @@
 <!--NEW CARD -->
 
 <div class="card">
-        <img class="card-img-top" src="../images/MAFX16-cover-1024x1024.jpg" alt="Card image cap">
+        <img class="card-img-top" src="../images/image_11.jpeg" alt="Card image cap">
         <div class="card-body">
-        <h5 class="card-title">AFRICAN </br>CLOUD FOREST</h5>
-        <p class="card-text">African Cloud Forest is a collection of immersive ambiences recorded in Ethiopia’s high-altitude montane rainforests.</p>
+        <h5 class="card-title">Example </br>3</h5>
+        <p class="card-text">Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam. </p>
         </div>
         <!-- Trigger the modal with a button -->
         <button type="button" class="btn btn-info" data-toggle="modal" data-target="#myModal3">Read More</button>
-        <button type="button" class="btn btn-success" data-toggle="" data-target="#basket">Add To Basket</button>
 
 <!-- Modal -->
 <div id="myModal3" class="modal" role="dialog">
@@ -147,14 +142,18 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-4">
-            <h2>AFRICAN CLOUD FOREST</h5>
+            <h2>Example 3</h5>
             </h2>
-            <img class="card-img-top" src="../images/MAFX16-cover-1024x1024.jpg" alt="Card image cap">
+            <img class="card-img-top" src="../images/image_11.jpeg" alt="Card image cap">
 
           </div>
             <div class="col-8">
             </br>
-            <p class="card-text">African Cloud Forest is a collection of immersive ambiences recorded in Ethiopia’s high-altitude montane rainforests. These recordings will transport you to the heart of remote cloud forests, teeming with wildlife and free from man-made noise.
+            <p class="card-text">ALorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. 
+
+            Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. 
+
+            Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. 
           </div>
         </div>
       </div>
@@ -174,14 +173,13 @@
 <!--NEW CARD -->
 
 <div class="card">
-        <img class="card-img-top" src="../images/MAFX17-cover-B-1024x1024.jpg" alt="Card image cap">
+        <img class="card-img-top" src="../images/image_12.jpeg" alt="Card image cap">
         <div class="card-body">
-        <h5 class="card-title">AFRICAN </br>JUNGLE</h5>
-        <p class="card-text">African Jungle is a huge collection of unique ambiences recorded in Central Africa’s Congo Basin rainforests.</p>
+        <h5 class="card-title">Example </br>4</h5>
+        <p class="card-text">Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet.</p>
         </div>
         <!-- Trigger the modal with a button -->
         <button type="button" class="btn btn-info" data-toggle="modal" data-target="#myModal4">Read More</button>
-        <button type="button" class="btn btn-success" data-toggle="" data-target="#basket">Add To Basket</button>
 
 <!-- Modal -->
 <div id="myModal4" class="modal" role="dialog">
@@ -197,14 +195,18 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-4">
-            <h2>AFRICAN JUNGLE</h5>
+            <h2>Example 4</h5>
             </h2>
-            <img class="card-img-top" src="../images/MAFX17-cover-B-1024x1024.jpg" alt="Card image cap">
+            <img class="card-img-top" src="../images/image_12.jpeg" alt="Card image cap">
 
           </div>
             <div class="col-8">
             </br>
-            <p class="card-text">African Jungle is a huge collection of unique ambiences recorded in Central Africa’s Congo Basin rainforests. To my knowledge, these are the first surround field recordings made in this area. Last year I spent a whole month off the grid, listening to and recording a variety of habitats at all times of day and night, at the height of the rainy season when birds are most vocal. It took me many days of travel to get to these places, from using trains, boats, cars and planes to hiking on foot in the jungle.
+            <p class="card-text">ALorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. 
+
+            Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. 
+
+            Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. 
           </div>
         </div>
       </div>
